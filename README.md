@@ -1,5 +1,5 @@
 # TFT-Crawler
-Blitz.gg crawler for the auto-chess game Teamfight Tactics.<br/>
+Blitz.gg crawler for the auto-chess game Teamfight Tactics. The program first obtains the summoner names of the top players(master+) in the specified region(s) using Riot API. Afterwards, the program extracts all the games from the specified patch for the top players from Blitz.gg.<br/>
 The original project is credited to [dawyi](https://github.com/dawyi/) and can be found [here](https://github.com/dawyi/TFT-Crawler).
 I have improved scalability and plan to build my own project on top of this.
 
